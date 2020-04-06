@@ -30,6 +30,7 @@ Route.group(() => {
   Route.get('user/product/list','ProductController.index')
   Route.put('user/product/update/:id','ProductController.update')
   Route.delete('user/product/delete/:id','ProductController.destroy')
+  //kyc el hocico
  
  //f eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOjIsImlhdCI6MTU4NjAzMzU4OH0.bL5dY_tiiw9sVavhXdecndCTrMi8r7Y7vE3nn-Hpjm0
  
